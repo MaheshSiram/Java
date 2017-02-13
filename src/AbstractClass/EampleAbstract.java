@@ -3,10 +3,15 @@ package AbstractClass;
 public abstract class EampleAbstract {
 
 	
-	 /*A class having at-least one abstract method is know as abstract method.
-    An abstract class can have both abstract method and concrete method(method with body)
-	 Method which is declared as abstract and doesn't have any implementation is know as abstract method
-	 In java we can not create instance of the abstract class
+	 /*
+	  A class having at-least one abstract method is know as abstract method.
+      An abstract class can have both abstract method and concrete method(method with body)
+	  Method which is declared as abstract and doesn't have any implementation is know as abstract method
+	  In java we can not create instance of the abstract class
+	  To implement the methods of an abstract class we need to extend the abstract class and can implement those methods.
+	  Abstract class can have constructor
+	  
+	 
 	 */
 	
 	public void test1(){                             // This is a concrete method
